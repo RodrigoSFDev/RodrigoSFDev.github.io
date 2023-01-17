@@ -3,5 +3,9 @@
     padding: 0px;
 }
 body{
-    background: aqua;
+    background: rgb(88, 128, 128) url(../img/arcoiris.jpg);
+    color: rgb(116, 81, 150);
+}
+#foto {
+    border-radius: 50%;
 }
