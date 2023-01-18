@@ -9,3 +9,8 @@ body{
 #foto {
     border-radius: 50%;
 }
+.breve {
+    color:white;
+    text-align: center;
+    font-size: 100px;
+}
